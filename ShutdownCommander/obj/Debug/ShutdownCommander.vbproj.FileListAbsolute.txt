@@ -1,0 +1,11 @@
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.vbproj.AssemblyReference.cache
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.Resources.resources
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.vbproj.GenerateResource.cache
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.vbproj.CoreCompileInputs.cache
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\bin\Debug\ShutdownCommander.exe
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\bin\Debug\ShutdownCommander.pdb
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\bin\Debug\ShutdownCommander.xml
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.exe
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.xml
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.pdb
+C:\Users\wsr20\source\repos\ShutdownCommander\ShutdownCommander\obj\Debug\ShutdownCommander.Form.resources
